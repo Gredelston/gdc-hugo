@@ -1,0 +1,4 @@
+baseURL = "http://gredelston.cool/"
+languageCode = "en-us"
+title = "Gredelston Dot Hugo"
+theme = "PaperMod"
