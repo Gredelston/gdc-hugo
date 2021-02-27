@@ -4,9 +4,9 @@ title = "Gredelston Dot Cool"
 theme = "PaperMod"
 
 [params]
-	ShowShareButtons = true
 	ShowReadingTime = true
 	ShowBreadCrumbs = true
+	ShowPostNavLinks = true
 
 [params.homeInfoParams]
 	Title = "Welcome aboard the Gredelston Dot Cool."
