@@ -2,3 +2,11 @@ baseURL = "http://gredelston.cool/"
 languageCode = "en-us"
 title = "Gredelston Dot Cool"
 theme = "PaperMod"
+
+[params.homeInfoParams]
+	Title = "Welcome aboard the Gredelston Dot Cool."
+	Content = "If you're reading this, then the world hasn't exploded yet. Rejoice by reading my blogs."
+
+[[params.socialIcons]]
+	name = "Github"
+	url = "https://github.com/gredelston"
