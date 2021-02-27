@@ -18,18 +18,20 @@ description: "What am I up to?"
 ![](./omelet.jpg)
 
 **Media Consumption:** I'm reading too many books right now: 
-    * _Atomic Habits_ (James Clear)
-    * _How to Be an Anti-Racist_ (Ibram X. Kendi)
-    * _Brotopia_ (Emily Chang)
-    * _Why Buddhism is True_ (Robert Wright)
-    * _The Name of the Wind_ (Patrick Rothfuss)
-    * _No Shortcuts_ (Jane McAlevey)
 
-For TV (well, streaming), I'm watching _WandaVision_, and it's amazing. Jill and I are also watching _Only Connect (Series 16)_, because it's the greatest quiz show.
+* _Atomic Habits_ (James Clear)
+* _How to Be an Anti-Racist_ (Ibram X. Kendi)
+* _Brotopia_ (Emily Chang)
+* _Why Buddhism is True_ (Robert Wright)
+* _The Name of the Wind_ (Patrick Rothfuss)
+* _No Shortcuts_ (Jane McAlevey)
+
+For TV (well, streaming), I'm watching _WandaVision_, and it's amazing. Jill and I are also watching _Only Connect_ (Series 16).
 
 For podcasts, I'm not especially religious about any of these, but these are the ones I tend to listen to:
-    * ReplyAll
-    * Comedy Bang Bang
-    * Your Undivided Attention
-    * How to Save a Planet
-    * The Adventure Zone, occasionally
+
+* ReplyAll
+* Comedy Bang Bang
+* Your Undivided Attention
+* How to Save a Planet
+* The Adventure Zone, occasionally
