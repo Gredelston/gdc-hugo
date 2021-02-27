@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Gredelston Dot Cool"
 theme = "PaperMod"
 
+[params]
+	ShowShareButtons = true
+
 [params.homeInfoParams]
 	Title = "Welcome aboard the Gredelston Dot Cool."
 	Content = "If you're reading this, then the world hasn't exploded yet. Rejoice by reading my blogs."
