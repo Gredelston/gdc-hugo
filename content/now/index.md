@@ -11,7 +11,7 @@ description: "What am I up to?"
 
 **Alphabet Workers Union:** Organizing with my fellow workers.
 
-**Meditation:** Excited to sit with my sangha in-person again. Our May meditation was our first in-person in over a year, and it was incredibly restorative. I can't wait til June's.
+**Meditation:** Excited to sit with my sangha in-person again. Our May meditation retreat was our first in-person in over a year, and it was incredibly restorative. I can't wait til June's.
 
 **Dog:** In August 2020, Jill and I got a puppy named Omelet. She is a handful. Recently we're excited to be working on a long line with her, looking forward to hiking off-leash.
 
